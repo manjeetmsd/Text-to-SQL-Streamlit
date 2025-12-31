@@ -1,1 +1,1 @@
-# Text-to-SQL-Streamlit
+# Text-to-SQL Streamlit
